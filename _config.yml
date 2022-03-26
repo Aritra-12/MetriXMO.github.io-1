@@ -20,12 +20,12 @@ timezone: America/Chicago
 
 title: Gaussian Curvature                         # the main title
 
-tagline: PoTD Site  # it will display as the sub-title
+tagline: problem of the day  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://yu-dylan.github.io'
+url: 'https://gcpotd.vercel.com'
 
 github:
   username: Gaussian Curvature            # change to your github username
