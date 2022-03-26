@@ -21,6 +21,4 @@ I plan on putting some handouts and other projects are work on here.
 # Related Links
 - [Gaussian Curvature Offcial Website](https://gcurvature.vercel.app/)
 - [Gaussian Curvature Official Discord Server](https://discord.gg/MEszPNra6j)
-- [Online Classes Club](https://onlineclassesclub.github.io/)
-- ASE Math Club
-- [Little MD](https://littlemeddegree.wixsite.com/medcamp)
+
