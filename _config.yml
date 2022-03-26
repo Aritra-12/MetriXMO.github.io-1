@@ -18,29 +18,29 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dylan Yu                          # the main title
+title: Gaussian Curvature                         # the main title
 
-tagline: High school student   # it will display as the sub-title
+tagline: PoTD Site  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This is the website of Dylan Yu. I'm a high school student with many interests.
+ 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://yu-dylan.github.io'
 
 github:
-  username: Yu-Dylan             # change to your github username
+  username: Gaussian Curvature            # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Dylan Yu
-  email: dylanyu66@gmail.com             # change to your email address
+  name: Gaussian Curvature
+  email: gaussiancurv180@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/Yu-Dylan       # change to your github homepage
+    -        # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/dylan.yu.96199/
-    - https://artofproblemsolving.com/community/user/475198
+    - 
+    - https://artofproblemsolving.com/community/user/553738
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
