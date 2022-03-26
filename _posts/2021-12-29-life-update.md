@@ -1,28 +1,62 @@
 ---
-title: Life Update
-author: Dylan Yu
-date: 2021-12-29
-categories: [Blogging, Life]
-tags: [personal]
+title: Season 1 Week 1
+author: Aritra
+date: 2022-03-26
+categories: [PoTD, Week 1]
+tags: [potd season 1]
 math: true
 mermaid: true
 ---
 
-Good.
+
 
 Testing math:
-<blockquote style="border-left: 3px solid #ac95fc; color:#ac95fc; margin-bottom:2px">
-<b>Theorem</b> (Function rotation). Let $f$ be the function you want to rotate and $\theta$ be the angle counterclockwise from the $x$-axis you want to rotate it. Then the new function becomes
-
-$$y\cos \theta-x\sin \theta=f\left(x\cos \theta+y\cos \theta\right).$$
-</blockquote>
-
-Look at this example:
-<blockquote style="border-left: 3px solid #52a88e; color:#52a88e; margin-bottom:2px">
-<b>Example</b>. This is an example.
-</blockquote>
-
-A definition:
 <blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
-<b>Definition</b> (Cube). A <i>cube</i> is a six-faced 3D object.
+<b>PoTD</b> (Day 1). Call a positive integer monotonous if it is a one-digit number or its digits, when read from left to right, form either a strictly increasing or a strictly decreasing sequence. For example, $3$, $23578$, and $987620$ are monotonous, but $88, 7434$and $23557$ are not. How many monotonous positive integers are there? 
+
+  - Answer is 1524
+- Source is AMC 10B, 2017
+  
+  
+  
+  
 </blockquote>
+
+<blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
+<b>PoTD</b> (Day 2). Call a positive integer monotonous if it is a one-digit number or its digits, when read from left to right, form either a strictly increasing or a strictly decreasing sequence. For example, $3$, $23578$, and $987620$ are monotonous, but $88, 7434$and $23557$ are not. How many monotonous positive integers are there? 
+
+  
+  
+  - Answer is 1524
+- Source is AMC 10B, 2017
+</blockquote>
+
+
+<blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
+<b>PoTD</b> (Day 3). 
+
+</blockquote>
+
+
+<blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
+<b>PoTD</b> (Day 4). 
+
+</blockquote>
+
+
+<blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
+<b>PoTD</b> (Day 5). 
+</blockquote>
+
+
+
+<blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
+<b>PoTD</b> (Day 6). 
+
+</blockquote>
+
+<blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
+<b>PoTD</b> (Day 7). 
+
+</blockquote>
+
