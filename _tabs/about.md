@@ -1,15 +1,13 @@
 ---
-title: About
+title: Gaussian Curvature Mathematics Problem Of The Day
 icon: fas fa-info-circle
 order: 1
 ---
 
-# About me
-Hello! This is GC PotD, a high school junior interested in
-- math,
-- coding,
-- physics, and
-- economics.
+# About GC PoTD
+GC PoTD system a daily event held on gaussian curvature community discord server where everyday a question is provided on everyday basis for fellow community members to solve and compete among themselves to score the highest of all.
+
+Some 
 
 I plan on putting some handouts and other projects are work on here.
 
