@@ -1,6 +1,6 @@
 ---
 title: Snake game
-author: Dylan Yu
+author: Gaussian Curvature
 date: 2021-02-27
 math: true
 mermaid: true
