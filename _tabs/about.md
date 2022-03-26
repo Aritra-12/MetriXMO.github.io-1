@@ -5,7 +5,7 @@ order: 1
 ---
 
 # About me
-Hello! This is Dylan, a high school junior interested in
+Hello! This is GC PotD, a high school junior interested in
 - math,
 - coding,
 - physics, and
