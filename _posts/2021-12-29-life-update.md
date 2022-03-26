@@ -28,10 +28,10 @@ Testing math:
   $$12(ab^4 + ba^4)$$
   
   
+
+</blockquote>
   - Answer is TBA
 - Source is TBA
-</blockquote>
-
 
 <blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
 <b>PoTD</b> (Day 3). 
@@ -43,21 +43,25 @@ Testing math:
 <b>PoTD</b> (Day 4). 
 
 </blockquote>
-
+  - Answer is TBA
+- Source is TBA
 
 <blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
 <b>PoTD</b> (Day 5). 
 </blockquote>
-
+  - Answer is TBA
+- Source is TBA
 
 
 <blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
 <b>PoTD</b> (Day 6). 
 
 </blockquote>
-
+  - Answer is TBA
+- Source is TBA
 <blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
 <b>PoTD</b> (Day 7). 
 
 </blockquote>
-
+  - Answer is TBA
+- Source is TBA
