@@ -64,3 +64,19 @@ mermaid: true
 </blockquote>
   - Answer is TBA
 - Source is TBA
+
+ 
+### Live LeaderBoard Week 1
+
+
+| Name                 | Score            | Percentage          |
+|:---------------------|:-----------------|--------------------:|
+| Sedo       | 5   | 100    | 
+| Sedo       | 5   | 100    |
+| GGHX              | 4| 80     |
+| L567    | 3 | 60 |
+| GamingMatrixes   | 0 | Doing your homework |
+| Sanyalarnab   | 0 | Doing your homework |
+
+
+
