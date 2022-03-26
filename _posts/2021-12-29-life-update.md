@@ -14,13 +14,14 @@ Testing math:
 <blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
 <b>PoTD</b> (Day 1). Call a positive integer monotonous if it is a one-digit number or its digits, when read from left to right, form either a strictly increasing or a strictly decreasing sequence. For example, $3$, $23578$, and $987620$ are monotonous, but $88, 7434$and $23557$ are not. How many monotonous positive integers are there? 
 
-  - Answer is 1524
-- Source is AMC 10B, 2017
+ 
   
   
   
   
 </blockquote>
+ - Answer is 1524
+- Source is AMC 10B, 2017
 
 <blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
 <b>PoTD</b> (Day 2).  If  $a+b = 1$ then find the maximum value of  
