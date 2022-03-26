@@ -1,8 +1,8 @@
 ---
-title: Markdown Tutorial
-author: Dylan Yu
-date: 2022-01-10
-categories: [Blogging, Tutorial]
+title: Some Information
+author: Aritra
+date: 2022-03-26
+categories: [Blogging]
 tags: [code, tutorial]
 math: true
 mermaid: true
