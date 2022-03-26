@@ -18,9 +18,9 @@ Here are some potd realted information
 
 I plan on putting some handouts and other projects are work on here.
 
-## Things I am/was involved in
-- [Math Advance](https://mathadvance.org/) and [MAST](https://mast.mathadvance.org/)
-- [NICE Contest](https://www.nicecontest.xyz/)
+# Related Links
+- [Gaussian Curvature Offcial Website](https://gcurvature.vercel.app/)
+- [Gaussian Curvature Official Discord Server](https://discord.gg/MEszPNra6j)
 - [Online Classes Club](https://onlineclassesclub.github.io/)
 - ASE Math Club
 - [Little MD](https://littlemeddegree.wixsite.com/medcamp)
