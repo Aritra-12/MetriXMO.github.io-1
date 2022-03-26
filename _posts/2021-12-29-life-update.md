@@ -2,7 +2,7 @@
 title: Season 1 Week 1
 author: Aritra
 date: 2022-03-26
-categories: [PoTD, Week 1]
+categories: [PoTD Season 1, Week 1]
 tags: [potd season 1]
 math: true
 mermaid: true
