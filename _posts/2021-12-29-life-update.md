@@ -72,11 +72,11 @@ mermaid: true
 | Name                 | Score            | Percentage          |
 |:---------------------|:-----------------|--------------------:|
 | Sedo       | 5   | 100    | 
-| Sedo       | 5   | 100    |
+| ElectroWiz     | 5   | 100    |
 | GGHX              | 4| 80     |
 | L567    | 3 | 60 |
-| GamingMatrixes   | 0 | Doing your homework |
-| Sanyalarnab   | 0 | Doing your homework |
+| GamingMatrixes   | 0 | 0|
+| Sanyalarnab   | 0 |0 |
 
 
 
