@@ -36,7 +36,8 @@ mermaid: true
 <b>PoTD</b> (Day 3). 
 
 </blockquote>
-
+- Answer is TBA
+- Source is TBA
 
 <blockquote style="border-left: 3px solid #C0C0C0; color:#C0C0C0; margin-bottom:2px">
 <b>PoTD</b> (Day 4). 
@@ -71,6 +72,7 @@ mermaid: true
 
 | Name                 | Score            | Percentage          |
 |:---------------------|:-----------------|--------------------:|
+| PhysicsBear     | 5   | 100    |
 | Sedo       | 5   | 100    | 
 | ElectroWiz     | 5   | 100    |
 | GGHX              | 4| 80     |
