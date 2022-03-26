@@ -13,8 +13,6 @@ Here are some potd realted information
 - For every correct answer you will be awarded with 5 points. You will have 5 chances, but on every entry of incorrect answer, your award point decreases by 1.
 - You can do +potd to get the potd in your DM. All in all, just type in server +help to get hold of all functions such as leaderboard, your scores and whatnot.
 
-I plan on putting some handouts and other projects are work on here.
-
 # Related Links
 - [Gaussian Curvature Offcial Website](https://gcurvature.vercel.app/)
 - [Gaussian Curvature Official Discord Server](https://discord.gg/MEszPNra6j)
