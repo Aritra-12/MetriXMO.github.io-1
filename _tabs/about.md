@@ -5,7 +5,7 @@ order: 1
 ---
 
 # About GC PoTD
-GC PoTD system a daily event held on  [gaussian curvature community discord server](https://gcurvature.vercel.app/) where everyday a question is provided on everyday basis for fellow community members to solve and compete among themselves to score the highest of all.
+GC PoTD system a daily event held on  [gaussian curvature community discord server](https://discord.gg/MEszPNra6j) where everyday a question is provided on everyday basis for fellow community members to solve and compete among themselves to score the highest of all.
 
 Here are some potd realted information
 - Problems are released at 10:30 am IST everyday and will be active for 24 hours. 
