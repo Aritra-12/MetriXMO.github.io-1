@@ -7,8 +7,12 @@ order: 2
 
 ## Live Season 1 Leaderboard 
 
+
 | Name                 | Score            | Percentage          |
 |:---------------------|:-----------------|--------------------:|
+| SPHS1234    | 5   | 100    |
+| PhysicsBear     | 5   | 100    |
+| player_01   | 5   | 100    |
 | PhysicsBear     | 5   | 100    |
 | Sedo       | 5   | 100    | 
 | ElectroWiz     | 5   | 100    |
@@ -16,3 +20,4 @@ order: 2
 | L567    | 3 | 60 |
 | GamingMatrixes   | 0 | 0|
 | Sanyalarnab   | 0 |0 |
+
