@@ -72,6 +72,9 @@ mermaid: true
 
 | Name                 | Score            | Percentage          |
 |:---------------------|:-----------------|--------------------:|
+| SPHS1234    | 5   | 100    |
+| PhysicsBear     | 5   | 100    |
+| player_01   | 5   | 100    |
 | PhysicsBear     | 5   | 100    |
 | Sedo       | 5   | 100    | 
 | ElectroWiz     | 5   | 100    |
