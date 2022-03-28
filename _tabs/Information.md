@@ -9,7 +9,7 @@ order: 1
 A season ends in 28 days.
 
 The problem difficulty structure will be
-- [x] AMC - [x] AIME [] USA(J)MO [] IMO  [] Week 1
-- [x] AMC [] AIME [] USA(J)MO [] IMO  [] Week 2
-- [x] AMC [] AIME [] USA(J)MO [] IMO  [] Week 3
-- [x] AMC [] AIME [] USA(J)MO [] IMO  [] Week 4
+- [x] Week 1 : AMC 
+- [x] Week 2 : AIME 
+- [x] Week 3 : USA(J)MO
+- [x] Week 4 : IMO 
