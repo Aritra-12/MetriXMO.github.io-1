@@ -10,16 +10,18 @@ order: 2
 
 | Name                 | Score            | Percentage          |
 |:---------------------|:-----------------|--------------------:|
-| SPHS1234    | 5   | 100    |
-| PhysicsBear     | 5   | 100    |
-| player_01   | 5   | 100    |
-| PhysicsBear     | 5   | 100    |
-| Sedo       | 5   | 100    | 
-| ElectroWiz     | 5   | 100    |
-| GGHX              | 4| 80     |
-| L567    | 3 | 60 |
-| GamingMatrixes   | 0 | 0|
-| Sanyalarnab   | 0 |0 |
-| Akshat Kerni   | 0 |0 |
+| player_01   | 10   | 66   |
+| L567    | 8 | 53 |
+| PhysicsBear     | 5   | 33   |
+| Sedo       | 5   | 33    | 
+| ALM | 5 | 33 |
+| ElectroWiz     | 5   | 33   |
+| Sanyalarnab   | 5 |33 |
+| GGHX              | 4| 26    |
+| SPHS1234    | 3   | 20    |
+| GamingMatrixes   | 1 | 0|
+| Jndd | 0| 0 |
+| Akshat Kerni | 0 | 0 |
+| Agamjeet Singh | 0 | 0 |
 
 
