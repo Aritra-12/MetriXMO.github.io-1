@@ -18,5 +18,5 @@ The problem difficulty structure will be
 
 Awards to winners will be both season basis and yearly basis.
 
-- [x] Season basis : Special Mention in server>
+- [x] Season basis : Special Mention in server.
 - [x] Yearly basis : The overall highest will be given a special awards along with a special mention in server. Awards may include Wolfram Notebook Edition, Maplesoft or AoPS coupons. 
